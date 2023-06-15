@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 I'm Joachim, 18 years old fullstack developer
+Owner of (Codenerds)[https://codenerds.tech/]
 
-Reach me at joachim.hodana@decisionsciences.ai (company email) or stylek777@gmail.com (personal email)
+Reach me at contact@codenerds.tech
