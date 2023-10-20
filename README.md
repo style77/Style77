@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [Newsltr](https://github.com/Style77/newsltr)
-
 - 👨‍💻 All of my projects are available at [codenerds.tech](codenerds.tech)
 
 - 💬 Ask me about **everything**
