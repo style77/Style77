@@ -18,6 +18,4 @@
 <a href="https://linkedin.com/in/joachim-hodana-33815b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joachim-hodana-33815b245" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=style77&" alt="style77" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=style77&show_icons=true&locale=en&layout=compact" alt="style77" /></p>
