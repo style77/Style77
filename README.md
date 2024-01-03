@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [codenerds.tech](codenerds.tech)
+- 👨‍💻 All of my projects are available at [joachimhodana.com](joachimhodana.com) and [codenerds.tech](codenerds.tech)
 
-- 💬 Ask me about **everything**
-
-- 📫 How to reach me **stylek777@gmail.com**
+- 📫 How to reach me **me@joachimhodana.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
