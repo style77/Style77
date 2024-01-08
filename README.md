@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [joachimhodana.com](joachimhodana.com) and [codenerds.tech](codenerds.tech)
 
-- 📫 How to reach me **me@joachimhodana.com**
+- 📫 Reach me at **me@joachimhodana.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
