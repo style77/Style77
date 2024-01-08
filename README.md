@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Newsltr](https://github.com/Style77/newsltr) and [SkyNotes](https://github.com/Style77/skynotes)
 
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [joachimhodana.com](joachimhodana.com) and [codenerds.tech](codenerds.tech)
 
 - 📫 Reach me at **me@joachimhodana.com**
