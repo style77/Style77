@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joachim</h1>
-<h3 align="center">Young aspiring developer with a passion for coding and a thirst for learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=style77&label=Profile%20views&color=0e75b6&style=flat" alt="style77" /> </p>
 
