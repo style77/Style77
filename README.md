@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=style77&label=Profile%20views&color=0e75b6&style=flat" alt="style77" /> </p>
 
-- 🔭 I’m currently working on [Newsltr](https://github.com/Style77/newsltr) and [SkyNotes](https://github.com/Style77/skynotes)
-
 - 👨‍💻 All of my projects are available at [joachimhodana.com](joachimhodana.com) and [codenerds.tech](codenerds.tech)
 
 - 📫 Reach me at **me@joachimhodana.com**
